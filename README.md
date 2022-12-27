@@ -1,7 +1,4 @@
 - 👋 Hi, I’m Madhur Sharma
-- 👀 I’m interested in learning Data Analysis, Data Science, Machine Learning, AI
-- 🌱 I’m currently learning Data Analytics
-- 💞️ I’m looking to collaborate on Data Analytics, Data Science, Machine Learning
 - 📫 I can be reached at hellomadhur@gmail.com
 
 <!---
